@@ -1,17 +1,2 @@
-Livestock farming involves raising animals for meat, milk, eggs, wool, and other products. 
-Common livestock includes cattle, pigs, sheep, goats, chickens, and ducks.
-
-Proper livestock management requires attention to animal health, nutrition, housing, and 
-welfare. Farmers must provide adequate feed, clean water, shelter, and veterinary care.
-
-Key aspects of livestock management include:
-- Breeding and genetics for improved productivity
-- Nutrition and feed management
-- Disease prevention and veterinary care
-- Housing and environmental conditions
-- Animal welfare and ethical practices
-- Waste management and environmental impact
-
-Sustainable livestock farming focuses on efficient resource use, animal welfare, and 
-minimizing environmental footprint. Pasture-based systems and rotational grazing can improve 
-soil health while providing natural feed for animals.
+Livestock farming involves raising animals for meat, milk, eggs, and other products.
+Important aspects include nutrition, breeding, disease prevention, and animal welfare.

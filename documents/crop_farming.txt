@@ -1,19 +1,2 @@
 Crop farming is the practice of growing plants for food, fiber, and other agricultural products. 
-The most common crops include grains like wheat, rice, and corn, as well as vegetables, fruits, 
-and cash crops like cotton and coffee.
-
-Successful crop farming requires understanding soil conditions, climate patterns, and proper 
-irrigation techniques. Farmers must select appropriate crop varieties for their region and 
-manage pests and diseases effectively.
-
-Key factors in crop production include:
-- Soil preparation and fertility management
-- Seed selection and planting techniques
-- Water management and irrigation systems
-- Fertilizer application and nutrient management
-- Pest and disease control
-- Harvest timing and post-harvest handling
-
-Modern agriculture also incorporates precision farming techniques using technology to optimize 
-yields while minimizing environmental impact. Crop rotation and cover crops help maintain soil 
-health and prevent erosion.
+Key factors include soil preparation, irrigation, fertilizer management, pest control, and proper harvesting.

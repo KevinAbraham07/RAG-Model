@@ -1,24 +1,2 @@
-Sustainable agriculture is a farming approach that focuses on long-term environmental health, 
-economic profitability, and social equity. It aims to meet current food needs without 
-compromising the ability of future generations to meet their own needs.
-
-Sustainable farming practices include:
-- Organic farming methods that avoid synthetic pesticides and fertilizers
-- Crop rotation and diversification to maintain soil health
-- Integrated pest management (IPM) to reduce chemical use
-- Water conservation and efficient irrigation systems
-- Conservation tillage to reduce soil erosion
-- Agroforestry combining trees with crops or livestock
-- Renewable energy use on farms
-
-Benefits of sustainable agriculture include:
-- Improved soil health and fertility over time
-- Reduced environmental pollution
-- Enhanced biodiversity
-- Better water quality and conservation
-- Increased resilience to climate change
-- Economic stability for farmers
-- Healthier food products
-
-Modern sustainable agriculture often combines traditional knowledge with innovative 
-technologies like precision farming, renewable energy, and biological pest control methods.
+Sustainable agriculture focuses on environmental health, economic profitability, and social equity.
+Practices include crop rotation, organic farming, water conservation, and renewable energy use.
